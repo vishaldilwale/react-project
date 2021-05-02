@@ -1,0 +1,14 @@
+.bottomNavbar{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background: rgb(237,89,44);
+}
+.bottomNavbarLink{
+    display: grid;
+    cursor: pointer;
+}
